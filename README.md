@@ -1,2 +1,157 @@
 # 2366
 Node.JS后端+Vue前端全栈新闻管理发布项目实战开发教程
+### 微:NoBug1024 
+
+
+课程介绍：
+
+Node.JS后端+Vue前端全栈新闻管理发布项目实战开发教程，本项目是基于Node.js开发后端接口，vue3开发前端的全栈项目应用，打通前后端数据交互, 打造一站式知识长龙服务，适合有nodejs基础的同学学习。
+
+
+〖课程目录〗:
+
+- ├──资料  
+- |   ├──000-课程简介  
+- |   |   └──课程简介.pptx  966.10kb
+- |   ├──001-项目介绍及演示  
+- |   |   └──001-项目介绍及演示.pptx  992.02kb
+- |   ├──002-admin-路由配置  
+- |   |   └──admin.zip  426.30kb
+- |   ├──003-admin-登录模块  
+- |   |   └──admin.zip  432.31kb
+- |   ├──004-admin-SideMenu模块  
+- |   |   └──admin.zip  433.99kb
+- |   ├──005-admin-TopHeader模块  
+- |   |   └──admin.zip  434.52kb
+- |   ├──006-server-Login接口-1  
+- |   |   ├──admin.zip  434.91kb
+- |   |   └──server.zip  33.81kb
+- |   ├──007-server-Login接口-2  
+- |   |   ├──admin.zip  434.91kb
+- |   |   └──server.zip  33.81kb
+- |   ├──008-server-JWT-1  
+- |   |   ├──admin.zip  434.99kb
+- |   |   └──server.zip  36.95kb
+- |   ├──009-server-JWT-2  
+- |   |   ├──admin.zip  435.86kb
+- |   |   └──server.zip  37.38kb
+- |   ├──010-admin-Home模块  
+- |   |   ├──admin.zip  436.68kb
+- |   |   └──server.zip  37.42kb
+- |   ├──011-admin-Center布局  
+- |   |   └──admin.zip  438.07kb
+- |   ├──012-server-Center接口  
+- |   |   ├──admin.zip  438.46kb
+- |   |   └──server.zip  257.97kb
+- |   ├──013-admin-Center封装  
+- |   |   ├──admin.zip  439.69kb
+- |   |   └──server.zip  2.02M
+- |   ├──014-admin-添加用户  
+- |   |   └──admin.zip  440.74kb
+- |   ├──015-server-添加用户接口  
+- |   |   ├──admin.zip  440.84kb
+- |   |   └──server.zip  2.17M
+- |   ├──016-admin-用户列表  
+- |   |   ├──admin.zip  441.57kb
+- |   |   └──server.zip  2.17M
+- |   ├──017-admin-删除用户  
+- |   |   ├──admin.zip  441.76kb
+- |   |   └──server.zip  2.18M
+- |   ├──018-admin-编辑用户  
+- |   |   ├──admin.zip  442.55kb
+- |   |   └──server.zip  2.41M
+- |   ├──019-admin-用户权限控制  
+- |   |   ├──admin.zip  442.80kb
+- |   |   └──server.zip  2.41M
+- |   ├──020-admin-创建新闻  
+- |   |   └──admin.zip  445.14kb
+- |   ├──021-server-新闻接口  
+- |   |   ├──admin.zip  445.21kb
+- |   |   └──server.zip  2.73M
+- |   ├──022-admin-新闻列表  
+- |   |   ├──admin.zip  446.54kb
+- |   |   └──server.zip  2.77M
+- |   ├──023-admin-发布新闻  
+- |   |   ├──admin.zip  446.63kb
+- |   |   └──server.zip  2.77M
+- |   ├──024-admin-预览新闻  
+- |   |   └──admin.zip  446.89kb
+- |   ├──025-admin-删除新闻  
+- |   |   ├──admin.zip  447.04kb
+- |   |   └──server.zip  2.80M
+- |   ├──026-admin-编辑新闻  
+- |   |   ├──admin.zip  448.76kb
+- |   |   └──server.zip  3.15M
+- |   ├──027-admin-添加产品  
+- |   |   ├──admin.zip  215.78kb
+- |   |   └──server.zip  6.41M
+- |   ├──028-admin-产品列表  
+- |   |   ├──admin.zip  215.78kb
+- |   |   └──server.zip  6.41M
+- |   ├──029-admin-编辑产品  
+- |   |   ├──admin.zip  215.78kb
+- |   |   └──server.zip  6.41M
+- |   ├──030-admin-首页产品联动  
+- |   |   ├──admin.zip  215.78kb
+- |   |   └──server.zip  6.41M
+- |   ├──031-web-路由配置  
+- |   |   └──web.zip  1.79M
+- |   ├──032-web-Navbar组件  
+- |   |   └──web.zip  1.79M
+- |   ├──033-web-Home模块  
+- |   |   └──web.zip  1.79M
+- |   ├──034-web-新闻搜索  
+- |   |   ├──server.zip  7.02M
+- |   |   └──web.zip  1.79M
+- |   ├──035-web-新闻列表  
+- |   |   ├──server.zip  7.02M
+- |   |   └──web.zip  1.79M
+- |   ├──036-web-新闻选项卡  
+- |   |   └──web.zip  1.79M
+- |   ├──037-web-新闻详情  
+- |   |   ├──server.zip  7.02M
+- |   |   └──web.zip  1.79M
+- |   ├──038-web-产品与服务  
+- |   |   ├──server.zip  7.49M
+- |   |   └──web.zip  1.79M
+- |   └──039-杀青  
+- ├──000-课程介绍.mp4  6.26M
+- ├──001-项目介绍及演示.mp4  39.69M
+- ├──002-admin-路由配置.mp4  125.68M
+- ├──003-admin-登录模块.mp4  148.59M
+- ├──004-admin-SideMenu模块.mp4  142.28M
+- ├──005-admin-TopHeader模块.mp4  43.99M
+- ├──006-server-Login接口-1.mp4  45.64M
+- ├──007-server-Login接口-2.mp4  76.11M
+- ├──008-server-JWT-1.mp4  46.43M
+- ├──009-server-JWT-2.mp4  114.70M
+- ├──010-admin-Home模块.mp4  99.13M
+- ├──011-admin-Center布局.mp4  93.10M
+- ├──012-server-Center接口.mp4  109.57M
+- ├──013-admin-Center封装.mp4  138.21M
+- ├──014-admin-添加用户.mp4  48.31M
+- ├──015-server-添加用户接口.mp4  27.76M
+- ├──016-admin-用户列表.mp4  71.36M
+- ├──017-admin-删除用户.mp4  38.31M
+- ├──018-admin-编辑用户.mp4  99.52M
+- ├──019-admin-用户权限控制.mp4  65.11M
+- ├──020-admin-创建新闻.mp4  107.10M
+- ├──021-server-新闻接口.mp4  69.74M
+- ├──022-admin-新闻列表.mp4  78.60M
+- ├──024-admin-预览新闻.mp4  48.25M
+- ├──025-admin-删除新闻.mp4  17.96M
+- ├──026-admin-编辑新闻.mp4  105.15M
+- ├──029-admin-编辑产品.mp4  65.62M
+- ├──030-admin-首页产品联动.mp4  25.93M
+- ├──031-web-路由配置.mp4  45.82M
+- ├──033-web-Home模块.mp4  32.72M
+- ├──035-web-新闻列表.mp4  56.33M
+- ├──036-web-新闻选项卡.mp4  112.96M
+- ├──037-web-新闻详情.mp4  111.93M
+- ├──25 023-admin-发布新闻.mp4  27.60M
+- ├──29 027-admin-添加产品.mp4  73.97M
+- ├──30 028-admin-产品列表.mp4  34.56M
+- ├──34 032-web-Navbar组件.mp4  32.49M
+- ├──36 034-web-新闻搜索.mp4  128.92M
+- ├──40 038-web-产品与服务.mp4  74.21M
+- └──41 039-杀青.mp4  5.06M
